@@ -3,6 +3,6 @@ My .tmux directory.
 
 ## Using
 ```bash
-$ git clone https://gitlab.com/bogdanvlviv/dottmux.git ~/.tmux
+$ git clone https://github.com/bogdanvlviv/dottmux.git ~/.tmux
 $ ln -s ~/.tmux/.tmux.conf ~/
 ```
